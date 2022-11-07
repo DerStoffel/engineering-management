@@ -35,4 +35,8 @@ Follow me on:
 
 * [TEDx: Work is not your family - Gloria Chan Packer](https://www.ted.com/talks/gloria_chan_packer_work_is_not_your_family_sep_2022)
 
+## Newsletters
+
+* [Software Lead Weekly](https://softwareleadweekly.com/)
+
 ## Podcasts
