@@ -29,6 +29,8 @@ Follow me on:
 
 ## Articles
 
+* [10 Signs That Psychological Safety Is Missing In Your Team](https://betterhumans.pub/10-signs-that-psychological-safety-is-missing-in-your-team-e6dbdcf95a9b)
+
 ## Videos
 
 * [TEDx: Work is not your family - Gloria Chan Packer](https://www.ted.com/talks/gloria_chan_packer_work_is_not_your_family_sep_2022)
