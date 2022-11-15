@@ -30,10 +30,12 @@ Follow me on:
 ## Articles
 
 * [10 Signs That Psychological Safety Is Missing In Your Team](https://betterhumans.pub/10-signs-that-psychological-safety-is-missing-in-your-team-e6dbdcf95a9b)
+* [Want to become a great engineering manager? Here's how googlers do it](https://medium.com/turingcom/want-to-become-a-great-engineering-manager-heres-how-googlers-do-it-88259e5510ae)
 
 ## Videos
 
 * [TEDx: Work is not your family - Gloria Chan Packer](https://www.ted.com/talks/gloria_chan_packer_work_is_not_your_family_sep_2022)
+* [#NoEstimates - Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 
 ## Newsletters
 
