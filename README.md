@@ -35,7 +35,12 @@ Follow me on:
 ## Videos
 
 * [TEDx: Work is not your family - Gloria Chan Packer](https://www.ted.com/talks/gloria_chan_packer_work_is_not_your_family_sep_2022)
+
+### No Estimates 
+
 * [#NoEstimates - Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+* [No Estimates - Vasco Duarte](https://www.youtube.com/watch?v=cgvB2wWvi8M)
+* [No Estimates - Woody Zuill](https://www.youtube.com/watch?v=3f1JebvRnOw)
 
 ## Newsletters
 
