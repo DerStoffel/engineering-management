@@ -47,3 +47,5 @@ Follow me on:
 * [Software Lead Weekly](https://softwareleadweekly.com/)
 
 ## Podcasts
+
+* [Programming Leadership](https://programmingleadership.podbean.com/)
