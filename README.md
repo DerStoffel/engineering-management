@@ -26,6 +26,7 @@ Follow me on:
 * [Mythical Man-Month, The: Essays on Software Engineering](https://amzn.to/3UaNmOC)
 * [The Five Dysfunctions of a Team: A Leadership Fable](https://amzn.to/3EeOMlP)
 * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://amzn.to/3WEzG06)
+* [Accelerate: The Science Behind Devops: Building and Scaling High Performing Technology Organizations](https://amzn.to/3Vp3XyB)
 
 ## Articles
 
