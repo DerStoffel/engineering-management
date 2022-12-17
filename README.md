@@ -36,6 +36,7 @@ Follow me on:
 ## Videos
 
 * [TEDx: Work is not your family - Gloria Chan Packer](https://www.ted.com/talks/gloria_chan_packer_work_is_not_your_family_sep_2022)
+* [TEX: How to make stress your friend - Kelly McGonigal](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 
 ### No Estimates 
 
